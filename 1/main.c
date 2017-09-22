@@ -3,7 +3,7 @@
 main() {
     char chr;
     float number;
-    scanf("%f",&number);
+    scanf("%f\n",&number);
     scanf("%c",&chr);
     printf("Float is: %f Symbol is: %c",number,chr);
 }
