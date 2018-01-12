@@ -2,6 +2,7 @@
 #include <math.h>
 #include <string.h>
 
+
 int main(){
   char number[][10]={"zero","one","two","three","four","five","six","seven","eight","nine"};
   int a;
